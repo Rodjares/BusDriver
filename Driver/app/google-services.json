@@ -1,0 +1,115 @@
+{
+  "project_info": {
+    "project_number": "263829279315",
+    "firebase_url": "https://ubu-bus.firebaseio.com",
+    "project_id": "ubu-bus",
+    "storage_bucket": "ubu-bus.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:263829279315:android:dc83abe71543a710",
+        "android_client_info": {
+          "package_name": "com.live.ubu.driver"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "263829279315-f55d7r3qthns08g9po92719ag1monlqs.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.live.ubu.driver",
+            "certificate_hash": "f1c433247d2185ffc134a2daf1d8b24c4b792ff1"
+          }
+        },
+        {
+          "client_id": "263829279315-pb4jij416plrolhfjh4rhh6et7hjst8b.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.live.ubu.driver",
+            "certificate_hash": "7a452247fd09af4f0da63fbf3d7d2d945573edab"
+          }
+        },
+        {
+          "client_id": "263829279315-tu0qvga9jre9htjfsrh3hqgjd2petl01.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCZac1qFGcuWfWxaq-t7M6LQSnzEa6I8OQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "263829279315-tu0qvga9jre9htjfsrh3hqgjd2petl01.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:263829279315:android:68705eb8258ff496",
+        "android_client_info": {
+          "package_name": "com.live.ubu.user"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "263829279315-ql67lme4886qm4av9a718bnlfv8c9lf0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.live.ubu.user",
+            "certificate_hash": "f1c433247d2185ffc134a2daf1d8b24c4b792ff1"
+          }
+        },
+        {
+          "client_id": "263829279315-c403jdvoafuirunq59aqpl0svis1vafp.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.live.ubu.user",
+            "certificate_hash": "7a452247fd09af4f0da63fbf3d7d2d945573edab"
+          }
+        },
+        {
+          "client_id": "263829279315-tu0qvga9jre9htjfsrh3hqgjd2petl01.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCZac1qFGcuWfWxaq-t7M6LQSnzEa6I8OQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "263829279315-tu0qvga9jre9htjfsrh3hqgjd2petl01.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
